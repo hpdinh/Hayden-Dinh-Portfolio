@@ -45,7 +45,7 @@ git clone https://github.com/haydendinh/react-portfolio.git
 cd react-portfolio
 npm install
 npm run dev
-
+```
 ---
 
 ## ☁️ Deployment
