@@ -1,12 +1,69 @@
-# React + Vite
+This is a modern, responsive portfolio website I built by following PedroTech’s YouTube tutorial. The purpose of this project was to learn how to create my own developer portfolio using React, TailwindCSS, and Vite — and to customize it further as I grow my skills.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🎯 Goal
+The goal of this project is to:
 
-Currently, two official plugins are available:
+Learn how to structure and deploy a frontend project using modern tools
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Build a personal developer portfolio I can expand upon
 
-## Expanding the ESLint configuration
+Customize the design and content to reflect my experience and projects
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⚙️ Tech Stack
+React – Component-based UI framework
+
+Vite – Fast build tool and development server
+
+TailwindCSS – Utility-first CSS for custom styling
+
+Lucide Icons – Icon set used across sections
+
+Radix UI – UI primitives for accessibility
+
+Vercel – Deployment platform
+
+✨ Features
+🌙 Dark mode toggle with localStorage
+
+💫 Animated background with stars and meteors
+
+📱 Fully responsive layout with mobile nav
+
+🧑‍💻 About and Hero sections with animations
+
+📊 Skills section with animated progress bars
+
+🖼️ Projects grid with tech stacks and GitHub/demo links
+
+📬 Contact section with social links and optional form
+
+⚡ One-click deploy via Vercel
+
+🚀 Getting Started
+git clone https://github.com/haydendinh/react-portfolio.git
+cd react-portfolio
+npm install
+npm run dev
+The app runs at: http://localhost:5173
+
+☁️ Deployment
+I deployed this project using Vercel:
+
+Push your code to GitHub
+
+Connect your GitHub repo on Vercel
+
+Click Deploy
+
+🙏 Credits
+PedroTech's original tutorial:
+https://www.youtube.com/watch?v=ifOJ0R5UQOc
+https://github.com/machadop1407/beautiful-react-tailwind-portfolio/blob/main/README.md
+
+Lucide Icons
+
+Radix UI
+
+Tailwind CSS
+
+Vercel
