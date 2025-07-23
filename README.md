@@ -1,6 +1,6 @@
 # 💼 Hayden Dinh’s Developer Portfolio
 
-This is a modern, responsive portfolio website I built by following [PedroTech’s YouTube tutorial](https://www.youtube.com/watch?v=ifOJ0R5UQOc). The purpose of this project was to **learn how to create my own developer portfolio** using **React**, **TailwindCSS**, and **Vite** — and to customize it further as I grow my skills.
+This is a modern, responsive portfolio website I built by following [PedroTech’s YouTube tutorial](https://www.youtube.com/watch?v=ifOJ0R5UQOc). The purpose of this project was to **learn how to create my own developer portfolio** using **React**, **TailwindCSS**, and **Vite** and to customize it further as I grow my skills.
 
 ---
 
