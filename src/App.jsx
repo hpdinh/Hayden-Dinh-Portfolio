@@ -9,7 +9,9 @@ function App() {
     <Toaster />
       <BrowserRouter>
         <Routes>
+          <Route path="/Hayden-Dinh-Portfolio-Tutorial">
           <Route index element={<Home />} />
+          </Route>
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>
